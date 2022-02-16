@@ -13,9 +13,4 @@
         <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/HTML5-725x1024.png">
         <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo-768x768.png">
         <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript-logo-768x1079.png">
-        <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/MongoDB-Logo.png">
-        <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2017/01/jquery-Logo-500x127.png">
-        <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/bootstrap-logo-785x785.png">
-        <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png">
-        <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/firebase-logo-600x173.png">
 </div>
