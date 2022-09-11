@@ -9,8 +9,3 @@
 </div>
   
 
-<div style="display: inline_block" > <br>
-        <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/HTML5-725x1024.png">
-        <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo-768x768.png">
-        <img align="left" hspace="5" alt="Ademar-Js" height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/javascript-logo-768x1079.png">
-</div>
